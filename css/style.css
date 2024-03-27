@@ -1,0 +1,33 @@
+body {
+    padding: 100px 40px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#container {
+    background-color: green;
+    padding: 30px 50px;
+}
+
+div.input-div {
+    display: inline-block;
+    text-align: center;
+    margin: 5px;
+    width: 100%;
+}
+
+label {
+    font-size: 22px;
+    text-align: center;
+}
+
+.inp {
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin: auto;
+    padding: 8px;
+    width: 60%;
+}
